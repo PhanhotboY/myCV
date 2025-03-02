@@ -1,3 +1,3 @@
 # MyCV
 
-[MyCV website version](https://phanhotboy.github.io/myCV)
+[MyCV website version](https://cv.phannd.me)
